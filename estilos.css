@@ -1,0 +1,18 @@
+header {
+    border: 3px black solid;
+    background: mediumpurple;
+}
+
+#hola {
+    font-size: 20px;
+    border: 3px black solid;
+    background: mediumpurple;
+}
+*{
+    width: 500px;
+    margin: auto;
+}
+#adr {
+    border: 3px black solid;
+    background-color: black;
+}
